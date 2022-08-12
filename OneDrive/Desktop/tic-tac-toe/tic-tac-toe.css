@@ -1,0 +1,117 @@
+body {
+    background-color: gray;
+}
+
+
+h1 {
+    color: yellow;
+}
+
+.title {
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+
+}
+
+h3 {
+    border: 1px;
+    border-radius: 4px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    color: yellow;
+    background-color: red;
+}
+
+.player {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.box {
+    width: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 80px;
+    color: black;
+    align-content: center;
+    height: 100px;
+    background-color: red;
+    margin: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.class {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.section {
+    display: flex;
+    justify-content: center;
+    margin: 2px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    color: red;
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+}
+
+
+.restart now {
+    border: 1px solid royalblue;
+    border-radius: 4px;
+    background-color: red;
+    color: black;
+    border-style: none;
+    padding: 20px;
+    width: 50px;
+    height: 5F0px;
+    margin-top: 2px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tic {
+    color: palegoldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#display {
+    color: khaki;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button {
+    color: tomato;
+    padding: 50px;
+    margin: 100px;
+    justify-content: center;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     
+}
+
+#controlBtn {
+    color: tomato;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-image: linear-gradient(blue,red);
+}
